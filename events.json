@@ -2,7 +2,7 @@
   "events": [
     {
       "scheduleTime": "2025-11-01T08:51:00",
-      "teamName": "",
+      "teamName": "Carol e Maiara",
       "arena": "",
       "lane": "1",
       "details": {
@@ -14,7 +14,7 @@
     },
     {
       "scheduleTime": "2025-11-01T09:08:00",
-      "teamName": "",
+      "teamName": "Luke e Matheus",
       "arena": "",
       "lane": "3",
       "details": {
@@ -26,7 +26,7 @@
     },
     {
       "scheduleTime": "2025-11-01T09:59:00",
-      "teamName": "",
+      "teamName": "Ari e Ju",
       "arena": "",
       "lane": "4",
       "details": {
@@ -38,7 +38,7 @@
     },
     {
       "scheduleTime": "2025-11-01T10:10:00",
-      "teamName": "",
+      "teamName": "Carol e Maiara",
       "arena": "",
       "lane": "1",
       "details": {
@@ -50,7 +50,7 @@
     },
     {
       "scheduleTime": "2025-11-01T10:23:00",
-      "teamName": "",
+      "teamName": "Luke e Matheus",
       "arena": "",
       "lane": "3",
       "details": {
@@ -62,7 +62,7 @@
     },
     {
       "scheduleTime": "2025-11-01T11:02:00",
-      "teamName": "",
+      "teamName": "Ari e Ju",
       "arena": "",
       "lane": "4",
       "details": {
@@ -74,7 +74,7 @@
     },
     {
       "scheduleTime": "2025-11-01T13:36:00",
-      "teamName": "",
+      "teamName": "Carol e Maiara",
       "arena": "",
       "lane": "1",
       "details": {
@@ -86,7 +86,7 @@
     },
     {
       "scheduleTime": "2025-11-01T13:48:00",
-      "teamName": "",
+      "teamName": "Luke e Matheus",
       "arena": "",
       "lane": "3",
       "details": {
@@ -98,7 +98,7 @@
     },
     {
       "scheduleTime": "2025-11-01T14:24:00",
-      "teamName": "",
+      "teamName": "Ari e Ju",
       "arena": "",
       "lane": "4",
       "details": {
